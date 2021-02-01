@@ -13,7 +13,7 @@ class Main {
       number --;
       }}
     
-    else  { 
+    else if (number <0) { 
       while (number <0)
       {
         System.out.println(number);
